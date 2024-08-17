@@ -1,1 +1,54 @@
 # homework4_digitalskola
+
+Berikut adalah Homework 4 tentang Hadoop.
+Output dari word count pembukaan UUD 194 adalah:
+1945	1
+Allah	1
+Atas	1
+Bahwa	1
+DASAR	1
+Dan	1
+Dasar	1
+Esa,	1
+INDONESIA	1
+Indonesia	9
+Indonesia,	2
+Indonesia.	1
+Keadilan	1
+Kebangsaan	1
+Kemanusiaan	1
+Kemerdekaan	2
+Kemudian	1
+Kerakyatan	1
+Ketuhanan	1
+Kuasa	1
+Maha	2
+NEGARA	1
+Negara	4
+P	1
+PEMBUKAAN	1
+Pemerintah	1
+Permusyawaratan/Perwakilan,	1
+Persatuan	1
+REPUBLIK	1
+Republik	1
+TAHUN	1
+UNDANG-UNDANG	1
+Undang-Undang	1
+Yang	2
+a	1
+abadi	1
+adil	2
+atas	1
+b	1
+bagi	1
+bangsa	2
+bangsa,	1
+bebas,	1
+beradab,	1
+berbahagia	1
+berdasar	1
+berdasarkan	1
+berdaulat,	1
+berkat	1
+
